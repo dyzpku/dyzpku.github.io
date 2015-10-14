@@ -1,2 +1,14 @@
 
+#only release version should be tracked
 css/bootstrap.css
+js/bootstrap.js
+font-awesome/css/font-awesome.css
+
+#all the files used to complie into css should not be tracked
+font-awesome/less/
+font-awesome/scss/
+wedding/less/
+
+#temp files are should not be tracked
+wedding/font-text.txt
+
